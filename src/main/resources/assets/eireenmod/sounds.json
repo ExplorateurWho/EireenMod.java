@@ -1,0 +1,12 @@
+{
+  "mutanic": {
+    "category": "master",
+    "subtitle": "sound.mutanic",
+    "sounds": [
+      {
+        "name": "eireenmod:mutanic",
+        "stream": false
+      }
+    ]
+  }
+}

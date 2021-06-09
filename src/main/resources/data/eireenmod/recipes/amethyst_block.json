@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "eireenmod:amethyst"
+    }
+  },
+  "result": {
+    "item": "eireenmod:amethyst_block",
+    "count": 1
+  }
+}

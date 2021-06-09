@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "e",
+    "e",
+    "s"
+  ],
+  "key":
+  {
+     "s": {
+       "item": "minecraft:stick"
+    },
+     "e":
+     {
+       "item": "eireenmod:electric"
+          }
+  },
+  "result":
+  {
+    "item": "eireenmod:electric_sword",
+    "count": 1
+  }
+}

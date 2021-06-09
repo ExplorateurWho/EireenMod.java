@@ -1,0 +1,38 @@
+modLoader = "javafml"
+
+loaderVersion = "[36,)"
+
+license = "All rights reserved"
+
+[[mods]]
+modId = "eireenmod"
+
+version = "Version Alpha 1.2"
+
+displayName = "Eireen Mod"
+
+logoFile = "logo.png"
+
+credits = "Thanks to Josia for creating the mod base
+           Thanks to Killar.exe for helping to code
+           Thanks to explorateur_who for creating the mods"
+
+authors = "Josia, Explorateur, Killar.exe"
+
+description = '''
+Eireen mods is a mod with for the moment an ore named: Electric Ore. It is currently under development. For now, I just want feedback on the mods to see what I might add in the future.
+'''
+
+[[dependencies.eireenmod]] #optional
+modId = "forge" #mandatory
+mandatory = true #mandatory
+versionRange = "[36,)" #mandatory
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.eireenmod]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.16.5,1.17)"
+ordering = "NONE"
+side = "BOTH"

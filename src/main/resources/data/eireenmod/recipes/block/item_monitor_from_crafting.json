@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RER",
+    "RRR"
+  ],
+  "key":
+  {
+    "R" : {
+      "item": "minecraft:redstone"
+    },
+    "E":
+    {
+      "item": "eireenmod:electronic_circuit"
+    }
+  },
+  "result":
+  {
+    "item": "eireenmod:monitor",
+    "count": 1
+  }
+}

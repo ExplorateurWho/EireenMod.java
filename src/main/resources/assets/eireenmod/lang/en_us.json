@@ -1,0 +1,21 @@
+{
+  "item.eireenmod.electric": "Electric Crystal",
+  "item.eireenmod.electric_axe": "Electric Axe",
+  "item.eireenmod.electric_sword": "Electric Sword",
+  "item.eireenmod.electric_shovel": "Electric Shovel",
+  "item.eireenmod.electric_pickaxe": "Electric Pickaxe",
+  "item.eireenmod.electric_hoe": "Electric Hoe",
+  "item.eireenmod.amethyst": "Amethyst Crystal",
+
+  "block.eireenmod.amethyst_block": "Amethyst Block",
+  "block.eireenmod.electric_ore": "Electric Ore",
+  "block.eireenmod.amethyst_ore": "Amethyst Ore",
+  "block.eireenmod.monitor": "Monitor",
+
+  "entity.eireenmod.mutanic": "Mutanic",
+
+  "itemGroup.eireenmod.blocks": "Eireen Mod Blocks",
+  "itemGroup.eireenmod.tools": "Eireen Mod Tools",
+  "itemGroup.eireenmod.combat": "Eireen Mod Combat",
+  "itemGroup.eireenmod.misc": "Eireen Mod Misc"
+}

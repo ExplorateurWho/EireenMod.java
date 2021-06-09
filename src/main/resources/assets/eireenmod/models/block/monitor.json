@@ -1,0 +1,22 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "0": "eireenmod:blocks/monitor",
+    "1": "eireenmod:blocks/monitor_front",
+    "particle": "eireenmod:blocks/monitor"
+  },
+  "elements": [
+    {
+      "from": [2, 0, 1],
+      "to": [15, 14, 14],
+      "faces": {
+        "north": {"uv": [0, 0, 13, 14], "texture": "#1"},
+        "east": {"uv": [0, 0, 13, 14], "texture": "#0"},
+        "south": {"uv": [0, 0, 13, 14], "texture": "#0"},
+        "west": {"uv": [0, 0, 13, 14], "texture": "#0"},
+        "up": {"uv": [0, 0, 13, 13], "texture": "#0"},
+        "down": {"uv": [0, 0, 13, 13], "texture": "#0"}
+      }
+    }
+  ]
+}

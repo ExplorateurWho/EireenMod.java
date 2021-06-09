@@ -1,0 +1,21 @@
+{
+    "item.eireenmod.electric": "Crystal Electrique",
+    "item.eireenmod.electric_axe": "Hache en Electrique",
+    "item.eireenmod.electric_sword": "Epée en Electrique",
+    "item.eireenmod.electric_shovel": "Pelle en Electrique",
+    "item.eireenmod.electric_pickaxe": "Pioche en Electrique",
+    "item.eireenmod.electric_hoe": "Houe en Electrique",
+    "item.eireenmod.amethyst": "Crystal d'Améthyste",
+
+    "block.eireenmod.amethyst_block": "Bloc de Améthyste",
+    "block.eireenmod.amethyst_ore": "Minerai d'Améthyste",
+    "block.eireenmod.electric_ore": "Minerai de Electrique",
+    "block.eireenmod.monitor": "Moniteur",
+
+    "entity.eireenmod.mutanic": "Mutant",
+
+    "itemGroup.eireenmod.blocks": "Eireen Mod Blocks",
+    "itemGroup.eireenmod.tools": "Eireen Mod Outils",
+    "itemGroup.eireenmod.combat": "Eireen Mod Combat",
+    "itemGroup.eireenmod.misc": "Eireen Mod Divers"
+  }
